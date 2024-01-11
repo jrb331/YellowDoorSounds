@@ -1,0 +1,640 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8A73D60E291323070055FCF5 /* Not Funny.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5D9291323070055FCF5 /* Not Funny.m4a */; };
+		8A73D60F291323070055FCF5 /* Chassis Check.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5DA291323070055FCF5 /* Chassis Check.m4a */; };
+		8A73D610291323070055FCF5 /* Steve Sadden.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5DB291323070055FCF5 /* Steve Sadden.m4a */; };
+		8A73D611291323070055FCF5 /* Banana Game!.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5DC291323070055FCF5 /* Banana Game!.m4a */; };
+		8A73D612291323070055FCF5 /* He's Only Gone and Done It.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5DD291323070055FCF5 /* He's Only Gone and Done It.m4a */; };
+		8A73D613291323070055FCF5 /* 16 Slices.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5DE291323070055FCF5 /* 16 Slices.m4a */; };
+		8A73D614291323070055FCF5 /* Why's It Spicy?.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5DF291323070055FCF5 /* Why's It Spicy?.m4a */; };
+		8A73D615291323070055FCF5 /* Conga dancing.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E0291323070055FCF5 /* Conga dancing.m4a */; };
+		8A73D616291323070055FCF5 /* Cue Scenes.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E1291323070055FCF5 /* Cue Scenes.m4a */; };
+		8A73D617291323070055FCF5 /* John Locke.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E2291323070055FCF5 /* John Locke.m4a */; };
+		8A73D618291323070055FCF5 /* You Been Conga Dancin'?.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E3291323070055FCF5 /* You Been Conga Dancin'?.m4a */; };
+		8A73D619291323070055FCF5 /* McKinsey Man.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E4291323070055FCF5 /* McKinsey Man.m4a */; };
+		8A73D61A291323070055FCF5 /* Steve Madden.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E5291323070055FCF5 /* Steve Madden.m4a */; };
+		8A73D61B291323070055FCF5 /* Slinky Little Number.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E6291323070055FCF5 /* Slinky Little Number.m4a */; };
+		8A73D61C291323070055FCF5 /* Spin Cycle!.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E7291323070055FCF5 /* Spin Cycle!.m4a */; };
+		8A73D61D291323070055FCF5 /* No Mo' Gata.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E8291323070055FCF5 /* No Mo' Gata.m4a */; };
+		8A73D61E291323070055FCF5 /* He's a Portoriccan.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5E9291323070055FCF5 /* He's a Portoriccan.m4a */; };
+		8A73D61F291323070055FCF5 /* The King is Calling.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5EA291323070055FCF5 /* The King is Calling.m4a */; };
+		8A73D620291323070055FCF5 /* Will Grigg’s on Fire.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5EB291323070055FCF5 /* Will Grigg’s on Fire.m4a */; };
+		8A73D621291323070055FCF5 /* Yoohoo.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5EC291323070055FCF5 /* Yoohoo.m4a */; };
+		8A73D622291323070055FCF5 /* Big Monke.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5ED291323070055FCF5 /* Big Monke.m4a */; };
+		8A73D623291323070055FCF5 /* Panik Attak.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5EE291323070055FCF5 /* Panik Attak.m4a */; };
+		8A73D624291323070055FCF5 /* Hot Soup.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5EF291323070055FCF5 /* Hot Soup.m4a */; };
+		8A73D625291323070055FCF5 /* Nightmare! Nightmare! Nightmare!.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F0291323070055FCF5 /* Nightmare! Nightmare! Nightmare!.m4a */; };
+		8A73D626291323070055FCF5 /* Lizzy’s in a Box.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F1291323070055FCF5 /* Lizzy’s in a Box.m4a */; };
+		8A73D627291323070055FCF5 /* Bit of a Bender.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F2291323070055FCF5 /* Bit of a Bender.m4a */; };
+		8A73D628291323070055FCF5 /* Dileto.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F3291323070055FCF5 /* Dileto.m4a */; };
+		8A73D629291323070055FCF5 /* Roight.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F4291323070055FCF5 /* Roight.m4a */; };
+		8A73D62A291323070055FCF5 /* Bop It.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F5291323070055FCF5 /* Bop It.m4a */; };
+		8A73D62B291323070055FCF5 /* Hello Sharks.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F6291323070055FCF5 /* Hello Sharks.m4a */; };
+		8A73D62C291323070055FCF5 /* Lads! Lads! Lads!.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F7291323070055FCF5 /* Lads! Lads! Lads!.m4a */; };
+		8A73D62D291323070055FCF5 /* Uber's Here.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F8291323070055FCF5 /* Uber's Here.m4a */; };
+		8A73D62E291323070055FCF5 /* Wanna Hear About Hawaii?.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5F9291323070055FCF5 /* Wanna Hear About Hawaii?.m4a */; };
+		8A73D62F291323070055FCF5 /* You Gotta Eat the Beans.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5FA291323070055FCF5 /* You Gotta Eat the Beans.m4a */; };
+		8A73D630291323070055FCF5 /* Four Char Dogs.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5FB291323070055FCF5 /* Four Char Dogs.m4a */; };
+		8A73D631291323070055FCF5 /* What the Hell?.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5FC291323070055FCF5 /* What the Hell?.m4a */; };
+		8A73D632291323070055FCF5 /* Emma.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5FD291323070055FCF5 /* Emma.m4a */; };
+		8A73D633291323070055FCF5 /* Fit Bird.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5FE291323070055FCF5 /* Fit Bird.m4a */; };
+		8A73D634291323070055FCF5 /* All Hail the King.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D5FF291323070055FCF5 /* All Hail the King.m4a */; };
+		8A73D635291323070055FCF5 /* Bof.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D600291323070055FCF5 /* Bof.m4a */; };
+		8A73D636291323070055FCF5 /* Dinner's Ready.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D601291323070055FCF5 /* Dinner's Ready.m4a */; };
+		8A73D637291323070055FCF5 /* Cheeky Monkey.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D602291323070055FCF5 /* Cheeky Monkey.m4a */; };
+		8A73D638291323070055FCF5 /* Arthur!.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D603291323070055FCF5 /* Arthur!.m4a */; };
+		8A73D639291323070055FCF5 /* Shawww.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D604291323070055FCF5 /* Shawww.m4a */; };
+		8A73D63A291323070055FCF5 /* Sloppy and Overt.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D605291323070055FCF5 /* Sloppy and Overt.m4a */; };
+		8A73D63B291323070055FCF5 /* Manual Fan!.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D606291323070055FCF5 /* Manual Fan!.m4a */; };
+		8A73D63C291323070055FCF5 /* Traction Check.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D607291323070055FCF5 /* Traction Check.m4a */; };
+		8A73D63D291323070055FCF5 /* I Love You Dad.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D608291323070055FCF5 /* I Love You Dad.m4a */; };
+		8A73D63E291323070055FCF5 /* Core Four.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D609291323070055FCF5 /* Core Four.m4a */; };
+		8A73D63F291323070055FCF5 /* Egit.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D60A291323070055FCF5 /* Egit.m4a */; };
+		8A73D640291323070055FCF5 /* Nar.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D60B291323070055FCF5 /* Nar.m4a */; };
+		8A73D641291323070055FCF5 /* Suavemente.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D60C291323070055FCF5 /* Suavemente.m4a */; };
+		8A73D642291323070055FCF5 /* Goat is a Witch and I can Prove It.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8A73D60D291323070055FCF5 /* Goat is a Witch and I can Prove It.m4a */; };
+		8A73D644291326080055FCF5 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A73D643291326080055FCF5 /* Constants.swift */; };
+		8A87F5612915F440003C735A /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A87F5602915F440003C735A /* Header.swift */; };
+		8A8A1C412913337500FE91DB /* Teko-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A8A1C3C2913337500FE91DB /* Teko-Medium.ttf */; };
+		8A8A1C422913337500FE91DB /* Teko-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A8A1C3D2913337500FE91DB /* Teko-SemiBold.ttf */; };
+		8A8A1C432913337500FE91DB /* Teko-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A8A1C3E2913337500FE91DB /* Teko-Light.ttf */; };
+		8A8A1C442913337500FE91DB /* Teko-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A8A1C3F2913337500FE91DB /* Teko-Regular.ttf */; };
+		8A8A1C452913337500FE91DB /* Teko-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A8A1C402913337500FE91DB /* Teko-Bold.ttf */; };
+		8A8A1C4A2913380400FE91DB /* Exo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A8A1C492913380400FE91DB /* Exo.ttf */; };
+		8A8A1C4C2913384900FE91DB /* Exo-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A8A1C4B2913384900FE91DB /* Exo-Bold.ttf */; };
+		8A9CA22F2910A1AE00FAF7C4 /* YDSoundsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9CA22E2910A1AE00FAF7C4 /* YDSoundsApp.swift */; };
+		8A9CA2312910A1AE00FAF7C4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9CA2302910A1AE00FAF7C4 /* ContentView.swift */; };
+		8A9CA2332910A1AF00FAF7C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A9CA2322910A1AF00FAF7C4 /* Assets.xcassets */; };
+		8A9CA2362910A1AF00FAF7C4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A9CA2352910A1AF00FAF7C4 /* Preview Assets.xcassets */; };
+		8A9CA23D2910A20F00FAF7C4 /* PlaySound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9CA23C2910A20F00FAF7C4 /* PlaySound.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8A73D5D9291323070055FCF5 /* Not Funny.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Not Funny.m4a"; sourceTree = "<group>"; };
+		8A73D5DA291323070055FCF5 /* Chassis Check.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chassis Check.m4a"; sourceTree = "<group>"; };
+		8A73D5DB291323070055FCF5 /* Steve Sadden.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Steve Sadden.m4a"; sourceTree = "<group>"; };
+		8A73D5DC291323070055FCF5 /* Banana Game!.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Banana Game!.m4a"; sourceTree = "<group>"; };
+		8A73D5DD291323070055FCF5 /* He's Only Gone and Done It.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "He's Only Gone and Done It.m4a"; sourceTree = "<group>"; };
+		8A73D5DE291323070055FCF5 /* 16 Slices.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "16 Slices.m4a"; sourceTree = "<group>"; };
+		8A73D5DF291323070055FCF5 /* Why's It Spicy?.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Why's It Spicy?.m4a"; sourceTree = "<group>"; };
+		8A73D5E0291323070055FCF5 /* Conga dancing.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Conga dancing.m4a"; sourceTree = "<group>"; };
+		8A73D5E1291323070055FCF5 /* Cue Scenes.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cue Scenes.m4a"; sourceTree = "<group>"; };
+		8A73D5E2291323070055FCF5 /* John Locke.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "John Locke.m4a"; sourceTree = "<group>"; };
+		8A73D5E3291323070055FCF5 /* You Been Conga Dancin'?.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "You Been Conga Dancin'?.m4a"; sourceTree = "<group>"; };
+		8A73D5E4291323070055FCF5 /* McKinsey Man.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "McKinsey Man.m4a"; sourceTree = "<group>"; };
+		8A73D5E5291323070055FCF5 /* Steve Madden.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Steve Madden.m4a"; sourceTree = "<group>"; };
+		8A73D5E6291323070055FCF5 /* Slinky Little Number.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Slinky Little Number.m4a"; sourceTree = "<group>"; };
+		8A73D5E7291323070055FCF5 /* Spin Cycle!.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Spin Cycle!.m4a"; sourceTree = "<group>"; };
+		8A73D5E8291323070055FCF5 /* No Mo' Gata.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "No Mo' Gata.m4a"; sourceTree = "<group>"; };
+		8A73D5E9291323070055FCF5 /* He's a Portoriccan.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "He's a Portoriccan.m4a"; sourceTree = "<group>"; };
+		8A73D5EA291323070055FCF5 /* The King is Calling.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "The King is Calling.m4a"; sourceTree = "<group>"; };
+		8A73D5EB291323070055FCF5 /* Will Grigg’s on Fire.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Will Grigg’s on Fire.m4a"; sourceTree = "<group>"; };
+		8A73D5EC291323070055FCF5 /* Yoohoo.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Yoohoo.m4a; sourceTree = "<group>"; };
+		8A73D5ED291323070055FCF5 /* Big Monke.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Big Monke.m4a"; sourceTree = "<group>"; };
+		8A73D5EE291323070055FCF5 /* Panik Attak.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panik Attak.m4a"; sourceTree = "<group>"; };
+		8A73D5EF291323070055FCF5 /* Hot Soup.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hot Soup.m4a"; sourceTree = "<group>"; };
+		8A73D5F0291323070055FCF5 /* Nightmare! Nightmare! Nightmare!.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nightmare! Nightmare! Nightmare!.m4a"; sourceTree = "<group>"; };
+		8A73D5F1291323070055FCF5 /* Lizzy’s in a Box.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lizzy’s in a Box.m4a"; sourceTree = "<group>"; };
+		8A73D5F2291323070055FCF5 /* Bit of a Bender.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Bit of a Bender.m4a"; sourceTree = "<group>"; };
+		8A73D5F3291323070055FCF5 /* Dileto.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Dileto.m4a; sourceTree = "<group>"; };
+		8A73D5F4291323070055FCF5 /* Roight.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Roight.m4a; sourceTree = "<group>"; };
+		8A73D5F5291323070055FCF5 /* Bop It.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Bop It.m4a"; sourceTree = "<group>"; };
+		8A73D5F6291323070055FCF5 /* Hello Sharks.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hello Sharks.m4a"; sourceTree = "<group>"; };
+		8A73D5F7291323070055FCF5 /* Lads! Lads! Lads!.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lads! Lads! Lads!.m4a"; sourceTree = "<group>"; };
+		8A73D5F8291323070055FCF5 /* Uber's Here.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Uber's Here.m4a"; sourceTree = "<group>"; };
+		8A73D5F9291323070055FCF5 /* Wanna Hear About Hawaii?.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Wanna Hear About Hawaii?.m4a"; sourceTree = "<group>"; };
+		8A73D5FA291323070055FCF5 /* You Gotta Eat the Beans.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "You Gotta Eat the Beans.m4a"; sourceTree = "<group>"; };
+		8A73D5FB291323070055FCF5 /* Four Char Dogs.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Four Char Dogs.m4a"; sourceTree = "<group>"; };
+		8A73D5FC291323070055FCF5 /* What the Hell?.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "What the Hell?.m4a"; sourceTree = "<group>"; };
+		8A73D5FD291323070055FCF5 /* Emma.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Emma.m4a; sourceTree = "<group>"; };
+		8A73D5FE291323070055FCF5 /* Fit Bird.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Fit Bird.m4a"; sourceTree = "<group>"; };
+		8A73D5FF291323070055FCF5 /* All Hail the King.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "All Hail the King.m4a"; sourceTree = "<group>"; };
+		8A73D600291323070055FCF5 /* Bof.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bof.m4a; sourceTree = "<group>"; };
+		8A73D601291323070055FCF5 /* Dinner's Ready.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dinner's Ready.m4a"; sourceTree = "<group>"; };
+		8A73D602291323070055FCF5 /* Cheeky Monkey.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cheeky Monkey.m4a"; sourceTree = "<group>"; };
+		8A73D603291323070055FCF5 /* Arthur!.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Arthur!.m4a"; sourceTree = "<group>"; };
+		8A73D604291323070055FCF5 /* Shawww.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Shawww.m4a; sourceTree = "<group>"; };
+		8A73D605291323070055FCF5 /* Sloppy and Overt.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sloppy and Overt.m4a"; sourceTree = "<group>"; };
+		8A73D606291323070055FCF5 /* Manual Fan!.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Manual Fan!.m4a"; sourceTree = "<group>"; };
+		8A73D607291323070055FCF5 /* Traction Check.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Traction Check.m4a"; sourceTree = "<group>"; };
+		8A73D608291323070055FCF5 /* I Love You Dad.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I Love You Dad.m4a"; sourceTree = "<group>"; };
+		8A73D609291323070055FCF5 /* Core Four.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Core Four.m4a"; sourceTree = "<group>"; };
+		8A73D60A291323070055FCF5 /* Egit.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Egit.m4a; sourceTree = "<group>"; };
+		8A73D60B291323070055FCF5 /* Nar.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Nar.m4a; sourceTree = "<group>"; };
+		8A73D60C291323070055FCF5 /* Suavemente.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Suavemente.m4a; sourceTree = "<group>"; };
+		8A73D60D291323070055FCF5 /* Goat is a Witch and I can Prove It.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Goat is a Witch and I can Prove It.m4a"; sourceTree = "<group>"; };
+		8A73D643291326080055FCF5 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		8A87F5602915F440003C735A /* Header.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
+		8A8A1C3C2913337500FE91DB /* Teko-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Teko-Medium.ttf"; sourceTree = "<group>"; };
+		8A8A1C3D2913337500FE91DB /* Teko-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Teko-SemiBold.ttf"; sourceTree = "<group>"; };
+		8A8A1C3E2913337500FE91DB /* Teko-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Teko-Light.ttf"; sourceTree = "<group>"; };
+		8A8A1C3F2913337500FE91DB /* Teko-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Teko-Regular.ttf"; sourceTree = "<group>"; };
+		8A8A1C402913337500FE91DB /* Teko-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Teko-Bold.ttf"; sourceTree = "<group>"; };
+		8A8A1C462913341400FE91DB /* YD-Sounds-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "YD-Sounds-Info.plist"; sourceTree = "<group>"; };
+		8A8A1C492913380400FE91DB /* Exo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Exo.ttf; sourceTree = "<group>"; };
+		8A8A1C4B2913384900FE91DB /* Exo-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Bold.ttf"; sourceTree = "<group>"; };
+		8A9CA22B2910A1AE00FAF7C4 /* YD Sounds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "YD Sounds.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A9CA22E2910A1AE00FAF7C4 /* YDSoundsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YDSoundsApp.swift; sourceTree = "<group>"; };
+		8A9CA2302910A1AE00FAF7C4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8A9CA2322910A1AF00FAF7C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8A9CA2352910A1AF00FAF7C4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8A9CA23C2910A20F00FAF7C4 /* PlaySound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySound.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8A9CA2282910A1AE00FAF7C4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8A87F55E2915F20B003C735A /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				8A9CA23C2910A20F00FAF7C4 /* PlaySound.swift */,
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		8A87F55F2915F221003C735A /* UI Components */ = {
+			isa = PBXGroup;
+			children = (
+				8A87F5602915F440003C735A /* Header.swift */,
+			);
+			path = "UI Components";
+			sourceTree = "<group>";
+		};
+		8A8A1C3B2913334B00FE91DB /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8A8A1C492913380400FE91DB /* Exo.ttf */,
+				8A8A1C4B2913384900FE91DB /* Exo-Bold.ttf */,
+				8A8A1C402913337500FE91DB /* Teko-Bold.ttf */,
+				8A8A1C3E2913337500FE91DB /* Teko-Light.ttf */,
+				8A8A1C3C2913337500FE91DB /* Teko-Medium.ttf */,
+				8A8A1C3F2913337500FE91DB /* Teko-Regular.ttf */,
+				8A8A1C3D2913337500FE91DB /* Teko-SemiBold.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		8A9CA2222910A1AE00FAF7C4 = {
+			isa = PBXGroup;
+			children = (
+				8A8A1C462913341400FE91DB /* YD-Sounds-Info.plist */,
+				8A9CA22D2910A1AE00FAF7C4 /* YDSounds */,
+				8A9CA22C2910A1AE00FAF7C4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8A9CA22C2910A1AE00FAF7C4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8A9CA22B2910A1AE00FAF7C4 /* YD Sounds.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8A9CA22D2910A1AE00FAF7C4 /* YDSounds */ = {
+			isa = PBXGroup;
+			children = (
+				8A9CA2302910A1AE00FAF7C4 /* ContentView.swift */,
+				8A9CA22E2910A1AE00FAF7C4 /* YDSoundsApp.swift */,
+				8A9CA2322910A1AF00FAF7C4 /* Assets.xcassets */,
+				8A73D643291326080055FCF5 /* Constants.swift */,
+				8A87F55F2915F221003C735A /* UI Components */,
+				8A87F55E2915F20B003C735A /* Functions */,
+				8A8A1C3B2913334B00FE91DB /* Fonts */,
+				8A9CA23E2910A25600FAF7C4 /* Sounds */,
+				8A9CA2342910A1AF00FAF7C4 /* Preview Content */,
+			);
+			path = YDSounds;
+			sourceTree = "<group>";
+		};
+		8A9CA2342910A1AF00FAF7C4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				8A9CA2352910A1AF00FAF7C4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8A9CA23E2910A25600FAF7C4 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				8A73D5DE291323070055FCF5 /* 16 Slices.m4a */,
+				8A73D5FF291323070055FCF5 /* All Hail the King.m4a */,
+				8A73D603291323070055FCF5 /* Arthur!.m4a */,
+				8A73D5DC291323070055FCF5 /* Banana Game!.m4a */,
+				8A73D5ED291323070055FCF5 /* Big Monke.m4a */,
+				8A73D5F2291323070055FCF5 /* Bit of a Bender.m4a */,
+				8A73D600291323070055FCF5 /* Bof.m4a */,
+				8A73D5F5291323070055FCF5 /* Bop It.m4a */,
+				8A73D5DA291323070055FCF5 /* Chassis Check.m4a */,
+				8A73D602291323070055FCF5 /* Cheeky Monkey.m4a */,
+				8A73D5E0291323070055FCF5 /* Conga dancing.m4a */,
+				8A73D609291323070055FCF5 /* Core Four.m4a */,
+				8A73D5E1291323070055FCF5 /* Cue Scenes.m4a */,
+				8A73D5F3291323070055FCF5 /* Dileto.m4a */,
+				8A73D601291323070055FCF5 /* Dinner's Ready.m4a */,
+				8A73D60A291323070055FCF5 /* Egit.m4a */,
+				8A73D5FD291323070055FCF5 /* Emma.m4a */,
+				8A73D5FE291323070055FCF5 /* Fit Bird.m4a */,
+				8A73D5FB291323070055FCF5 /* Four Char Dogs.m4a */,
+				8A73D60D291323070055FCF5 /* Goat is a Witch and I can Prove It.m4a */,
+				8A73D5E9291323070055FCF5 /* He's a Portoriccan.m4a */,
+				8A73D5DD291323070055FCF5 /* He's Only Gone and Done It.m4a */,
+				8A73D5F6291323070055FCF5 /* Hello Sharks.m4a */,
+				8A73D5EF291323070055FCF5 /* Hot Soup.m4a */,
+				8A73D608291323070055FCF5 /* I Love You Dad.m4a */,
+				8A73D5E2291323070055FCF5 /* John Locke.m4a */,
+				8A73D5F7291323070055FCF5 /* Lads! Lads! Lads!.m4a */,
+				8A73D5F1291323070055FCF5 /* Lizzy’s in a Box.m4a */,
+				8A73D606291323070055FCF5 /* Manual Fan!.m4a */,
+				8A73D5E4291323070055FCF5 /* McKinsey Man.m4a */,
+				8A73D60B291323070055FCF5 /* Nar.m4a */,
+				8A73D5F0291323070055FCF5 /* Nightmare! Nightmare! Nightmare!.m4a */,
+				8A73D5E8291323070055FCF5 /* No Mo' Gata.m4a */,
+				8A73D5D9291323070055FCF5 /* Not Funny.m4a */,
+				8A73D5EE291323070055FCF5 /* Panik Attak.m4a */,
+				8A73D5F4291323070055FCF5 /* Roight.m4a */,
+				8A73D604291323070055FCF5 /* Shawww.m4a */,
+				8A73D5E6291323070055FCF5 /* Slinky Little Number.m4a */,
+				8A73D605291323070055FCF5 /* Sloppy and Overt.m4a */,
+				8A73D5E7291323070055FCF5 /* Spin Cycle!.m4a */,
+				8A73D5E5291323070055FCF5 /* Steve Madden.m4a */,
+				8A73D5DB291323070055FCF5 /* Steve Sadden.m4a */,
+				8A73D60C291323070055FCF5 /* Suavemente.m4a */,
+				8A73D5EA291323070055FCF5 /* The King is Calling.m4a */,
+				8A73D607291323070055FCF5 /* Traction Check.m4a */,
+				8A73D5F8291323070055FCF5 /* Uber's Here.m4a */,
+				8A73D5F9291323070055FCF5 /* Wanna Hear About Hawaii?.m4a */,
+				8A73D5FC291323070055FCF5 /* What the Hell?.m4a */,
+				8A73D5DF291323070055FCF5 /* Why's It Spicy?.m4a */,
+				8A73D5EB291323070055FCF5 /* Will Grigg’s on Fire.m4a */,
+				8A73D5EC291323070055FCF5 /* Yoohoo.m4a */,
+				8A73D5E3291323070055FCF5 /* You Been Conga Dancin'?.m4a */,
+				8A73D5FA291323070055FCF5 /* You Gotta Eat the Beans.m4a */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8A9CA22A2910A1AE00FAF7C4 /* YDSounds */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A9CA2392910A1AF00FAF7C4 /* Build configuration list for PBXNativeTarget "YDSounds" */;
+			buildPhases = (
+				8A9CA2272910A1AE00FAF7C4 /* Sources */,
+				8A9CA2282910A1AE00FAF7C4 /* Frameworks */,
+				8A9CA2292910A1AE00FAF7C4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = YDSounds;
+			productName = YDSounds;
+			productReference = 8A9CA22B2910A1AE00FAF7C4 /* YD Sounds.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8A9CA2232910A1AE00FAF7C4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					8A9CA22A2910A1AE00FAF7C4 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+				};
+			};
+			buildConfigurationList = 8A9CA2262910A1AE00FAF7C4 /* Build configuration list for PBXProject "YDSounds" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8A9CA2222910A1AE00FAF7C4;
+			productRefGroup = 8A9CA22C2910A1AE00FAF7C4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8A9CA22A2910A1AE00FAF7C4 /* YDSounds */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8A9CA2292910A1AE00FAF7C4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A73D62B291323070055FCF5 /* Hello Sharks.m4a in Resources */,
+				8A9CA2362910A1AF00FAF7C4 /* Preview Assets.xcassets in Resources */,
+				8A73D62C291323070055FCF5 /* Lads! Lads! Lads!.m4a in Resources */,
+				8A8A1C4A2913380400FE91DB /* Exo.ttf in Resources */,
+				8A73D62A291323070055FCF5 /* Bop It.m4a in Resources */,
+				8A8A1C432913337500FE91DB /* Teko-Light.ttf in Resources */,
+				8A73D615291323070055FCF5 /* Conga dancing.m4a in Resources */,
+				8A73D616291323070055FCF5 /* Cue Scenes.m4a in Resources */,
+				8A8A1C4C2913384900FE91DB /* Exo-Bold.ttf in Resources */,
+				8A73D60F291323070055FCF5 /* Chassis Check.m4a in Resources */,
+				8A73D61E291323070055FCF5 /* He's a Portoriccan.m4a in Resources */,
+				8A73D611291323070055FCF5 /* Banana Game!.m4a in Resources */,
+				8A73D638291323070055FCF5 /* Arthur!.m4a in Resources */,
+				8A73D631291323070055FCF5 /* What the Hell?.m4a in Resources */,
+				8A73D625291323070055FCF5 /* Nightmare! Nightmare! Nightmare!.m4a in Resources */,
+				8A73D622291323070055FCF5 /* Big Monke.m4a in Resources */,
+				8A73D61C291323070055FCF5 /* Spin Cycle!.m4a in Resources */,
+				8A73D61A291323070055FCF5 /* Steve Madden.m4a in Resources */,
+				8A73D612291323070055FCF5 /* He's Only Gone and Done It.m4a in Resources */,
+				8A73D61D291323070055FCF5 /* No Mo' Gata.m4a in Resources */,
+				8A73D633291323070055FCF5 /* Fit Bird.m4a in Resources */,
+				8A73D614291323070055FCF5 /* Why's It Spicy?.m4a in Resources */,
+				8A73D63B291323070055FCF5 /* Manual Fan!.m4a in Resources */,
+				8A73D635291323070055FCF5 /* Bof.m4a in Resources */,
+				8A8A1C442913337500FE91DB /* Teko-Regular.ttf in Resources */,
+				8A73D63F291323070055FCF5 /* Egit.m4a in Resources */,
+				8A73D617291323070055FCF5 /* John Locke.m4a in Resources */,
+				8A73D61B291323070055FCF5 /* Slinky Little Number.m4a in Resources */,
+				8A73D610291323070055FCF5 /* Steve Sadden.m4a in Resources */,
+				8A73D623291323070055FCF5 /* Panik Attak.m4a in Resources */,
+				8A73D63A291323070055FCF5 /* Sloppy and Overt.m4a in Resources */,
+				8A9CA2332910A1AF00FAF7C4 /* Assets.xcassets in Resources */,
+				8A73D624291323070055FCF5 /* Hot Soup.m4a in Resources */,
+				8A73D620291323070055FCF5 /* Will Grigg’s on Fire.m4a in Resources */,
+				8A73D62F291323070055FCF5 /* You Gotta Eat the Beans.m4a in Resources */,
+				8A73D627291323070055FCF5 /* Bit of a Bender.m4a in Resources */,
+				8A73D61F291323070055FCF5 /* The King is Calling.m4a in Resources */,
+				8A73D62E291323070055FCF5 /* Wanna Hear About Hawaii?.m4a in Resources */,
+				8A73D60E291323070055FCF5 /* Not Funny.m4a in Resources */,
+				8A8A1C422913337500FE91DB /* Teko-SemiBold.ttf in Resources */,
+				8A73D613291323070055FCF5 /* 16 Slices.m4a in Resources */,
+				8A73D628291323070055FCF5 /* Dileto.m4a in Resources */,
+				8A73D642291323070055FCF5 /* Goat is a Witch and I can Prove It.m4a in Resources */,
+				8A73D637291323070055FCF5 /* Cheeky Monkey.m4a in Resources */,
+				8A8A1C452913337500FE91DB /* Teko-Bold.ttf in Resources */,
+				8A73D640291323070055FCF5 /* Nar.m4a in Resources */,
+				8A73D626291323070055FCF5 /* Lizzy’s in a Box.m4a in Resources */,
+				8A73D634291323070055FCF5 /* All Hail the King.m4a in Resources */,
+				8A73D632291323070055FCF5 /* Emma.m4a in Resources */,
+				8A73D63E291323070055FCF5 /* Core Four.m4a in Resources */,
+				8A8A1C412913337500FE91DB /* Teko-Medium.ttf in Resources */,
+				8A73D62D291323070055FCF5 /* Uber's Here.m4a in Resources */,
+				8A73D621291323070055FCF5 /* Yoohoo.m4a in Resources */,
+				8A73D630291323070055FCF5 /* Four Char Dogs.m4a in Resources */,
+				8A73D63D291323070055FCF5 /* I Love You Dad.m4a in Resources */,
+				8A73D618291323070055FCF5 /* You Been Conga Dancin'?.m4a in Resources */,
+				8A73D619291323070055FCF5 /* McKinsey Man.m4a in Resources */,
+				8A73D629291323070055FCF5 /* Roight.m4a in Resources */,
+				8A73D63C291323070055FCF5 /* Traction Check.m4a in Resources */,
+				8A73D641291323070055FCF5 /* Suavemente.m4a in Resources */,
+				8A73D636291323070055FCF5 /* Dinner's Ready.m4a in Resources */,
+				8A73D639291323070055FCF5 /* Shawww.m4a in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8A9CA2272910A1AE00FAF7C4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A87F5612915F440003C735A /* Header.swift in Sources */,
+				8A9CA2312910A1AE00FAF7C4 /* ContentView.swift in Sources */,
+				8A9CA23D2910A20F00FAF7C4 /* PlaySound.swift in Sources */,
+				8A9CA22F2910A1AE00FAF7C4 /* YDSoundsApp.swift in Sources */,
+				8A73D644291326080055FCF5 /* Constants.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		8A9CA2372910A1AF00FAF7C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8A9CA2382910A1AF00FAF7C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8A9CA23A2910A1AF00FAF7C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"YDSounds/Preview Content\"";
+				DEVELOPMENT_TEAM = 3JAT3Q2DGD;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "YD-Sounds-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "YD Sounds";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = boyd.jonathan.YDSounds;
+				PRODUCT_NAME = "YD Sounds";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		8A9CA23B2910A1AF00FAF7C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"YDSounds/Preview Content\"";
+				DEVELOPMENT_TEAM = 3JAT3Q2DGD;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "YD-Sounds-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "YD Sounds";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = boyd.jonathan.YDSounds;
+				PRODUCT_NAME = "YD Sounds";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8A9CA2262910A1AE00FAF7C4 /* Build configuration list for PBXProject "YDSounds" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A9CA2372910A1AF00FAF7C4 /* Debug */,
+				8A9CA2382910A1AF00FAF7C4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A9CA2392910A1AF00FAF7C4 /* Build configuration list for PBXNativeTarget "YDSounds" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A9CA23A2910A1AF00FAF7C4 /* Debug */,
+				8A9CA23B2910A1AF00FAF7C4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8A9CA2232910A1AE00FAF7C4 /* Project object */;
+}
